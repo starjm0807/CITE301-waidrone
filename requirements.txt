@@ -1,0 +1,5 @@
+pyparrot==1.5.20
+untangle==1.1.1
+zeroconf==0.24.0
+keyboard
+pygame
